@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45035705-c9d1-4ba6-ab3d-17c4411728f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1216769332">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.1696" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="20" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="282" />
+          <entry key="log" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="20" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="282" />
+          <entry key="PLAIN_TEXT" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="66" />
+          <entry key="java" value="31872" />
+          <entry key="log" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="31872" />
+          <entry key="PLAIN_TEXT" value="67" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="857570764">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>GREETINGS&quot;:&quot;O</find>
+      <find>Test_boot: {&quot;Check BOOT E</find>
+      <find>GetLogFromCollectedLogs</find>
+      <find>m_AndroidDriver</find>
+      <find>filePath</find>
+      <find>logs</find>
+      <find>m_ElementsDetails</find>
+      <find>LOCATIONS</find>
+      <find>SERIAL</find>
+      <find>serial</find>
+      <find>serialNum</find>
+      <find>FtuePresenter</find>
+      <find>ftuePres</find>
+      <find>ftue</find>
+      <find>ftuepres</find>
+      <find>charging</find>
+      <find>ftuePR</find>
+      <find>CHARGING</find>
+      <find>ftuePresenter</find>
+      <find>WEBSOCKET</find>
+      <find>FTUEPRESENTER</find>
+      <find>WebSocketServer</find>
+      <find>ActivationHelper</find>
+      <find>ACCESS</find>
+      <find>tid</find>
+      <find>qr</find>
+      <find>ftuepresenter</find>
+      <find>TEST_BOOT</find>
+      <find>locations</find>
+      <find>FAILED</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>TapTopBarHomeButton</replace>
+      <replace>GetElementInDisplayedList</replace>
+      <replace>FindElementByXPath</replace>
+      <replace>GetLogLineFromCollectedLogs</replace>
+      <replace>androidDriver</replace>
+      <replace>filePath</replace>
+      <replace>failedLogger</replace>
+      <replace>succeededLogger</replace>
+      <replace>jsonObject</replace>
+      <replace>logs</replace>
+      <replace>launcherLogs</replace>
+      <replace>elementsDetails</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Launcher/LauncherSkillList.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/ListFactory.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/List.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Tests/Test2.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Tests/Test1.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/YouTube/YouTubeUtils.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Launcher/LauncherUtils.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Tests/Test3.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Tests/RegistraionScenarioTest.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/HorizontalList.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/AppList.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/ISkillHandler.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/SkillUtils.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Tests/YouTubeSearchScenarioTest.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/IListHandler.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/AbstractListHandler.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/YouTube/YouTubeList/YouTubeListUtils.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Launcher/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Launcher/LauncherList/LauncherSkillListUtils.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/ListUtilFactory.java" />
+        <option value="$PROJECT_DIR$/23-12-2018 11:54:23/SucceededTests.log" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/ListHandler.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/YouTube/YouTube.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/YouTube/YouTubeList/YouTubeList.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Launcher/LauncherList/LauncherSkillList.java" />
+        <option value="$PROJECT_DIR$/src/ConstantsCreator/JsonWebElement.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/XPathConstantsFile.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/JsonTest.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/JsonBuilder.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/TestJson.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Tests/RegistrationScenarioTest.java" />
+        <option value="$PROJECT_DIR$/src/ConstantsCreator/LocationConstantsCreator.java" />
+        <option value="$PROJECT_DIR$/src/main.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Tests/main.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Tests/Main.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Tests/ActivationScenarioTest.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Booting/Booting.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Tests/ActivationTest.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Activation/Activation.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/FTUE/Activation.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Constants/XPathConstantsFile.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Tests/FTUETest.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Tests/RunAllTests.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Tester.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Constants/TesterConstants.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Constants/LoggerConstants.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/FTUE/FTUE.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Constants/UtilsConstants.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Utils.java" />
+        <option value="$PROJECT_DIR$/src/AutomationTestingSystem/Tests/BootingTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AutomationTestingSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTestingSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTestingSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTestingSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTestingSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTestingSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AutomationTestingSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTestingSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTestingSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AutomationTestingSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Constants" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTestingSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTestingSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AutomationTestingSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="FTUE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTestingSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTestingSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ConstantsCreator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTestingSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BootingTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AutomationTestingSystem.Tests.Main" />
+      <module name="AutomationTestingSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomationTestingSystem.Tests in AutomationTestingSystem" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="AutomationTestingSystem" />
+      <option name="PACKAGE_NAME" value="AutomationTestingSystem.Tests" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestingSystem" />
+      <option name="PACKAGE_NAME" value="AutomationTestingSystem.Tests" />
+      <option name="MAIN_CLASS_NAME" value="AutomationTestingSystem.Tests.BootingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootingTest.Test01_BootStarted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestingSystem" />
+      <option name="PACKAGE_NAME" value="AutomationTestingSystem.Tests" />
+      <option name="MAIN_CLASS_NAME" value="AutomationTestingSystem.Tests.BootingTest" />
+      <option name="METHOD_NAME" value="Test01_BootStarted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootingTest.Test1_GetLogs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestingSystem" />
+      <option name="PACKAGE_NAME" value="AutomationTestingSystem.Tests" />
+      <option name="MAIN_CLASS_NAME" value="AutomationTestingSystem.Tests.BootingTest" />
+      <option name="METHOD_NAME" value="Test1_GetLogs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FTUETest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestingSystem" />
+      <option name="PACKAGE_NAME" value="AutomationTestingSystem.Tests" />
+      <option name="MAIN_CLASS_NAME" value="AutomationTestingSystem.Tests.FTUETest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AutomationTestingSystem.Tests in AutomationTestingSystem" />
+      <item itemvalue="JUnit.FTUETest" />
+      <item itemvalue="JUnit.BootingTest" />
+      <item itemvalue="JUnit.BootingTest.Test1_GetLogs" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.BootingTest.Test01_BootStarted" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BootingTest" />
+        <item itemvalue="JUnit.BootingTest.Test01_BootStarted" />
+        <item itemvalue="JUnit.FTUETest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.BootingTest.Test1_GetLogs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AutomationTestingSystem_Tests_in_AutomationTestingSystem - 2019.01.31 at 15h 23m 26s.xml">
+      <configuration name="AutomationTestingSystem.Tests in AutomationTestingSystem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AutomationTestingSystem_Tests_in_AutomationTestingSystem - 2019.01.31 at 15h 23m 49s.xml">
+      <configuration name="AutomationTestingSystem.Tests in AutomationTestingSystem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BootingTest_Test01_BootStarted - 2019.01.31 at 15h 24m 07s.xml">
+      <configuration name="BootingTest.Test01_BootStarted" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BootingTest - 2019.01.31 at 15h 24m 40s.xml">
+      <configuration name="BootingTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BootingTest - 2019.01.31 at 15h 25m 18s.xml">
+      <configuration name="BootingTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BootingTest - 2019.01.31 at 15h 26m 12s.xml">
+      <configuration name="BootingTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BootingTest - 2019.01.31 at 15h 29m 21s.xml">
+      <configuration name="BootingTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BootingTest - 2019.01.31 at 16h 07m 28s.xml">
+      <configuration name="BootingTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BootingTest - 2019.01.31 at 16h 25m 55s.xml">
+      <configuration name="BootingTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BootingTest - 2019.01.31 at 16h 28m 04s.xml">
+      <configuration name="BootingTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49917898" visible="true" weight="0.2114165" />
+      <window_info id="Structure" order="1" sideWeight="0.500821" side_tool="true" weight="0.24960506" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4982382" visible="true" weight="0.32168674" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.90679306" weight="0.22871287" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3055286" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.19702971" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5017618" side_tool="true" visible="true" weight="0.28313252" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49605057" weight="0.3237624" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AutomationTestingSystem/YouTube/YouTubeList/YouTubeListUtils.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/Desktop/AutomationJars/java-client-6.1.0.jar!/io/appium/java_client/android/AndroidDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/JsonTest.java" />
+    <entry file="jar://$USER_HOME$/Desktop/AutomationJars/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4560">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30-12-2019 10.39.40/SucceededTests.log" />
+    <entry file="file://$PROJECT_DIR$/30-12-2019 10.39.40/FailedTests.log" />
+    <entry file="file://$PROJECT_DIR$/30-12-2019 02.45.26/FailedTests.log" />
+    <entry file="file://$PROJECT_DIR$/30-12-2019 02.45.26/SucceededTests.log" />
+    <entry file="file://$PROJECT_DIR$/30-12-2019 02.57.58/FailedTests.log" />
+    <entry file="file://$PROJECT_DIR$/30-12-2019 02.57.58/SucceededTests.log" />
+    <entry file="jar://$USER_HOME$/Desktop/AutomationJars/junit-4.12.jar!/org/junit/internal/builders/JUnit4Builder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/AutomationJars/junit-4.12.jar!/org/junit/internal/builders/AllDefaultPossibilitiesBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/AutomationJars/junit-4.12.jar!/org/junit/internal/requests/ClassRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30-12-2019 04.30.33/FailedTests.log" />
+    <entry file="file://$PROJECT_DIR$/30-12-2019 04.30.33/SucceededTests.log" />
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/ListUtilFactory.java" />
+    <entry file="file://$PROJECT_DIR$/31-12-2019 10.22.06/FailedTests.log" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="1930" selection-start-line="1930" selection-end-line="1930" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java" />
+    <entry file="file://$PROJECT_DIR$/01-01-2019 06.11.51/SucceededTests.log" />
+    <entry file="file://$PROJECT_DIR$/01-01-2019 06.56.37/SucceededTests.log" />
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/TestJson.java" />
+    <entry file="file://$PROJECT_DIR$/01-01-2019 06.56.37/FailedTests.log" />
+    <entry file="file://$PROJECT_DIR$/02-01-2019 03.30.13/FailedTests.log" />
+    <entry file="file://$PROJECT_DIR$/02-01-2019 03.30.13/SucceededTests.log" />
+    <entry file="file://$PROJECT_DIR$/02-01-2019 03.21.36/SucceededTests.log" />
+    <entry file="file://$PROJECT_DIR$/02-01-2019 03.21.36/FailedTests.log" />
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/Booting/Booting.java" />
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/YouTube/YouTubeList/YouTubeList.java" />
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/YouTube/YouTubeList/YouTubeListUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/YouTube/YouTube.java" />
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/JsonBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/ListHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/Launcher/LauncherList/LauncherSkillList.java" />
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/Launcher/LauncherList/LauncherSkillListUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/Launcher/Launcher.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConstantsCreator/LocationConstantsCreator.java" />
+    <entry file="file://$PROJECT_DIR$/AutomationTestingSystem.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/Tester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/Tests/RegistrationScenarioTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/Tests/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/Tests/RunAllTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/Tests/FTUETest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/Constants/XPathConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/Constants/TesterConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/Tests/BootingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConstantsCreator/JsonWebElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="65" column="24" lean-forward="true" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/FTUE/FTUE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1023">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/Constants/LoggerConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/Constants/UtilsConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AutomationTestingSystem/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="281" lean-forward="true" selection-start-line="281" selection-end-line="281" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getTimeFromLog#0;class#Utils#0" />
+            <element signature="method#FindElementByXPath#0;class#Utils#0" />
+            <element signature="method#FindElementsByXPath#0;class#Utils#0" />
+            <element signature="method#TouchAction#0;class#Utils#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AutomationTestingSystem</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
